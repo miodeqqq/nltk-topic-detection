@@ -104,6 +104,3 @@ ENV/
 
 # Rope project settings
 .ropeproject
-
-# project
-pdf_data_samples/
